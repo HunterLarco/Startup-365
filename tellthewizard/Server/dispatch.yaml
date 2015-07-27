@@ -1,0 +1,5 @@
+application: topsidelacrosseapp
+
+dispatch:
+  - url: "*/api*"
+    module: api
